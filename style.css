@@ -1,0 +1,189 @@
+
+ul {
+    list-style-type: none;
+    margin-left:0;
+    padding-left: 5px;
+    font-family: arial, sans-serif;
+    text-decoration: none;
+    
+}
+.left li {
+    float: left;
+    margin-left: 12px;
+}
+.about {
+    color: black;
+    text-decoration: none;
+    opacity: 0.75;
+    font-size: 13px;
+    padding-top: 10px;
+}
+.store {
+    color: black;
+    text-decoration: none;
+    opacity: 0.75;
+    font-size: 13px;
+    padding-top: 10px;
+}
+.right li{
+    float: right;
+    margin-right: 15px;
+}
+.gmail {
+    color: black;
+    text-decoration: none;
+    opacity: 0.75;
+    font-size: 13px;
+    padding-top: 10px;
+}
+.images {
+    color: black;
+    text-decoration: none;
+    opacity: 0.75;
+    font-size: 13px;
+    padding-top: 10px;
+}
+.signIn {
+    border: 1px solid;
+    font-weight: bold;
+    background: -webkit-linear-gradient(top, #4387fd, #4683ea);
+    color: white;
+    line-height: 28px;
+    border-radius: 2px;
+    font-family: arial;
+    font-size: 13px;
+    padding-top: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 2px;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+ 
+}
+#googleLogo {
+    padding-top: 109px;
+    height: 92px;
+    align-items: center;
+}
+#search-box {
+    margin-left: 34%;
+    max-width: 1000px;
+    margin-top: 30px;
+    height: 44px;
+    width: 450px;
+    border-radius: 24px;
+    border: 1px solid #dfe1e5;
+}
+.middle li {
+    display: block;
+    float: left;
+    margin-left: 12px;
+}
+.googleSearch {
+    float: left;
+    color: #3c4043;
+    text-decoration: none;
+    font-family: arial;
+    font-size: 14px;
+    margin-left: 110%;
+    width: 100px;
+    text-align: center;
+    padding-left: 215px;
+    padding-top: 15px;
+}
+.lucky {
+    float: right;
+    color: #3c4043;
+    text-decoration: none;
+    font-family: arial;
+    font-size: 14px;  
+    padding-top: 15px;
+    padding-left: 375px;
+   
+}
+
+   
+    
+}
+.foot {
+    list-style-type: none;
+    position: absolute;
+    bottom: 0px;
+}
+
+.ad {
+    text-decoration: none;
+    position: absolute;
+    bottom: 10px;
+    left: 40px;  
+    font-size: 14px;
+    color: #70757a;
+    z-index: 1;
+}
+.business {
+    text-decoration: none;
+    position: absolute;
+    bottom: 10px;
+    left: 150px;
+    font-size: 14px;
+    color: #70757a;
+    z-index: 1;
+}
+.how {
+    text-decoration: none;
+    position: absolute;
+    bottom: 10px;
+    left: 250px;
+    font-size: 14px;
+    color: #70757a;  
+    z-index: 1;
+}
+.carbon {
+    text-decoration: none;
+    position: absolute;
+    bottom: 10px;
+    left: 650px;
+    font-size: 14px;
+    color: #70757a;
+    z-index: 1;
+}
+.privacy {
+    text-decoration: none;
+    position: absolute;
+    bottom: 10px;
+    right: 250px;
+    font-size: 14px;
+    color: #70757a;
+    z-index: 1;
+}
+.terms {
+    text-decoration: none;
+    position: absolute;
+    bottom: 10px;
+    right: 150px;
+    font-size: 14px;
+    color: #70757a;
+    z-index: 1;
+}
+.settings {
+    text-decoration: none;
+    position: absolute;
+    bottom: 10px;
+    right: 40px;
+    font-size: 14px;
+    color: #70757a;
+    z-index: 7;
+}
+.foot-bar {
+    position: absolute;
+    bottom: -1px;
+    width: 10000px;
+    left: -1px;
+    z-index: 0;
+    height: 33px;
+    background-color: #f2f2f2;
+    border-top: 1px solid #dadce0;
+}
